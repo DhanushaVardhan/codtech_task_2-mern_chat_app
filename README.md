@@ -1,8 +1,8 @@
-# Text-A-Lot
+# Chat-Application
 
 > A Realtime Chat Application
 
-**Text-A-Lot** is a simple yet powerful real-time chat application built using the **MERN stack** (MongoDB, Express, React, Node.js) and **Socket.IO** for real-time communication. This application supports responsive design, making it accessible on both mobile and desktop devices.
+**Chat-Application** is a simple yet powerful real-time chat application built using the **MERN stack** (MongoDB, Express, React, Node.js) and **Socket.IO** for real-time communication. This application supports responsive design, making it accessible on both mobile and desktop devices.
 
 ---
 
