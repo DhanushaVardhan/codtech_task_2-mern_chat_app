@@ -1,0 +1,32 @@
+.typing-indicator {
+    margin-top: 10px;
+    font-size: 14px;
+    color: gray;
+    text-align: center;
+  }
+  
+  .chat-input input:focus + .send-button {
+    display: inline-block;
+  }
+  
+  .send-button {
+    display: none;
+    background-color: #4682b4;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .send-button:hover {
+    background-color: #5a9bd3;
+  }
+  
+
+  .typing-indicator {
+    font-style: italic;
+    color: gray;
+    text-align: center;
+    margin-top: 10px;
+  }
